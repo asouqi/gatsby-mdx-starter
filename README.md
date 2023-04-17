@@ -8,4 +8,4 @@
   Gatsby's with mdx pages default starter
 </h1>
 
-check out this article if you need to add mdx to your project
+check out this [article](https://medium.com/@asouqi/how-to-make-mdx-work-for-gatsby-8d2c99ca4541) if you need to know how to add mdx to your project
